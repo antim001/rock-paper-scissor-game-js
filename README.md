@@ -5,7 +5,7 @@ This project is a simple and interactive implementation of the classic game, Roc
 ## site
 
 https://rock-paper-scissor-game-js-antim.netlify.app/
-
+![](images/Capture.jpg)
 ## Features
 
 ## User Interaction:
