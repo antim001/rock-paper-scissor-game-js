@@ -20,6 +20,9 @@ const showWinner=(userWin,userID,compChoice)=>{
         msg.innerText=`You win! ${userID} beats ${compChoice}`
         msg.style.backgroundColor='green';
         userScorePara.innerText=userScore
+        const jsConfetti = new JSConfetti()
+
+jsConfetti.addConfetti()
     }
     else{
       cmpScore++
